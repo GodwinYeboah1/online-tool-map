@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.lacountyartsedcollective.org/sites/lacaec/files/lacountyartsedcollectivesquaresmall.jpg" type="image/jpeg" />
+<meta name="description" content="The Los Angeles County Arts Education Collective is dedicated to making the arts core in K-12 public education." />
+<meta name="abstract" content="The Los Angeles County Arts Education Collective is dedicated to making the arts core in K-12 public education." />
+<meta name="keywords" content="Los Angeles arts education, Los Angeles County arts education, Los angeles county school district, arts integration, STEAM, STEAM education, music education, dance education, theatre education, visual arts education, media arts education, K-12, public schools, public education, Los Angeles arts education organizations, community arts partners, arts providers, teacher professional development, arts education professional development, arts education information, learning opportunities, collective impact, Los Angeles County Office of Education, Arts for LA, Arts for All, LA County Arts Education Collective" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.lacountyartsedcollective.org/" />
+<link rel="shortlink" href="https://www.lacountyartsedcollective.org/" />
+<meta property="og:site_name" content="Los Angeles County Arts Ed Collective" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.lacountyartsedcollective.org/" />
+<meta property="og:title" content="Los Angeles County Arts Ed Collective" />
+  <title>Page not found | Los Angeles County Arts Ed Collective</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <style>
+@import url("https://www.lacountyartsedcollective.org/modules/system/system.base.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/modules/system/system.messages.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/modules/system/system.theme.css?ozhkf2");
+</style>
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/all/libraries/accessible_mega_menu/css/megamenu.css?ozhkf2");
+</style>
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/calendar/css/calendar_multiday.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/date/date_api/date.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/fences/field.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/logintoboggan/logintoboggan.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/modules/node/node.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/modules/search/search.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/modules/user/user.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/extlink/extlink.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/views/css/views.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/back_to_top/css/back_to_top_text.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/ckeditor/css/ckeditor.css?ozhkf2");
+</style>
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/absolute_messages/absolute_messages.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/contrib/ctools/css/ctools.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/custom/kwall_accordion_menu/css/font-awesome/css/font-awesome.min.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/modules/custom/kwall_accordion_menu/css/kwall_accordion_menu.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/libraries/gray/css/gray.min.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/libraries/stacktable/stacktable.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/libraries/tablesaw/bare/tablesaw.bare.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/all/libraries/magnific-popup/dist/magnific-popup.css?ozhkf2");
+</style>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all" />
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/all/themes/custom/artsforall_theme/css/base/normalize.css?ozhkf2");
+</style>
+<link rel="stylesheet" href="https://www.lacountyartsedcollective.org/sites/lacaec/files/less/styles.LurkAhM9_TWFbcpPUWPcU24gGIOSPp24nLfLBgOQwQ4.css?ozhkf2" media="all" src="/sites/all/themes/custom/artsforall_theme/css/styles.css.less" />
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/all/themes/custom/artsforall_theme/fonts/stylesheet.css?ozhkf2");
+</style>
+<style>
+@import url("https://www.lacountyartsedcollective.org/sites/lacaec/files/css_injector/css_injector_1.css?ozhkf2");
+@import url("https://www.lacountyartsedcollective.org/sites/lacaec/files/css_injector/css_injector_6.css?ozhkf2");
+</style>
+  <script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_2hoh0v0y6B2TInaEIHI3XwA7E31uiNqpq69BJ97pODY.js"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_wIw8dSJ_K3PIx8QvGtdm6e6ay0z1FU-z6rbKUJ08wHg.js"></script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_Eazc64SAA15hbZl2KgN6ZS8N7OKUlPCubslYwzJx6dg.js"></script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_e9XS1EDlIFk-SQrNyqbHej1SwJ5nclEB4fax5IJtjT8.js"></script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_DuCBxVBnmwlqi-FUiwD_uvjmLVBk6uphM_23_gbOteI.js"></script>
+<script>jQuery.extend(Drupal.absolute_messages, {"dismiss":{"status":false,"warning":false,"error":false},"dismiss_time":{"status":"","warning":"","error":""},"dismiss_all_count":2});</script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_V5y2vFs3R36gVBRSLrVO2ZKIdePMfuN5hs6kPpwcyQc.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-11457422-3", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_7A40WbrhhrozPLaHT4Pijb2evkALMRKgLVxCL664AQ8.js"></script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_N6OX-WQYZ8lkzlVRisbQ50JtHZNJ-rMhUU67corTiVQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"artsforall_theme","theme_token":"ste7IOeBfJUE-EXeW9G6eDgA17VsTShQAFTX5mtzamk","js":{"sites\/all\/libraries\/skipto\/SkipTo.min.js":1,"sites\/all\/libraries\/accessible_mega_menu\/js\/jquery-accessibleMegaMenu.js":1,"sites\/all\/libraries\/gray\/js\/jquery.gray.min.js":1,"sites\/all\/libraries\/stacktable\/stacktable.js":1,"sites\/all\/libraries\/tablesaw\/tablesaw.js":1,"sites\/all\/libraries\/stacktable\/stacktable.min.js":1,"sites\/all\/libraries\/tablesaw\/tablesaw-init.js":1,"sites\/all\/libraries\/fastclick\/fastclick.js":1,"0":1,"sites\/all\/modules\/custom\/kwall_accordion_menu\/js\/kwall_accordion_menu.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/artsforall\/modules\/custom\/artsforall_custom\/js\/artsforall_custom.js":1,"sites\/all\/libraries\/magnific-popup\/dist\/jquery.magnific-popup.min.js":1,"sites\/all\/libraries\/hammer\/hammer.min.js":1,"sites\/all\/libraries\/hammer\/hammer-time.min.js":1,"sites\/all\/modules\/custom\/lacac_custom\/js\/lacac_custom.js":1,"sites\/all\/libraries\/hammer\/jquery.hammer.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.11\/jquery.min.js":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/libraries\/jquery.placeholder\/jquery.placeholder.min.js":1,"sites\/all\/modules\/contrib\/jquery_placeholder\/jquery_placeholder.js":1,"sites\/all\/libraries\/jquery.hoverintent\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/custom\/kwall_megamenu\/js\/kwall_megamenu.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/absolute_messages\/absolute_messages.js":1,"2":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/getdirections\/js\/getdirections.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/libraries\/jquery.placeholder\/jquery.placeholder.js":1,"sites\/all\/modules\/contrib\/form_placeholder\/form_placeholder.js":1,"sites\/all\/themes\/custom\/artsforall_theme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/accessible_mega_menu\/css\/megamenu.css":1,"sites\/all\/modules\/custom\/kwall_megamenu\/js\/kwall_megamenu.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/back_to_top\/css\/back_to_top_text.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/absolute_messages\/absolute_messages.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/kwall_accordion_menu\/css\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/kwall_accordion_menu\/css\/kwall_accordion_menu.css":1,"sites\/all\/libraries\/gray\/css\/gray.min.css":1,"sites\/all\/libraries\/stacktable\/stacktable.css":1,"sites\/all\/libraries\/tablesaw\/bare\/tablesaw.bare.css":1,"sites\/all\/libraries\/magnific-popup\/dist\/magnific-popup.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.6.3\/css\/font-awesome.min.css":1,"sites\/all\/themes\/custom\/artsforall_theme\/system.menus.css":1,"sites\/all\/themes\/custom\/artsforall_theme\/css\/base\/normalize.css":1,"sites\/all\/themes\/custom\/artsforall_theme\/css\/styles.css.less":1,"sites\/all\/themes\/custom\/artsforall_theme\/fonts\/stylesheet.css":1,"sites\/all\/themes\/custom\/artsforall_theme\/css\/styles.css":1,"sites\/all\/themes\/custom\/artsforall_theme\/css\/themes\/print.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"getdirections_colorbox":{"enable":0,"width":600,"height":600},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"\u003Cbutton type=\u0022button\u0022\u003E\u003Cspan class=\u0022element-invisible\u0022\u003EBack to Top\u003C\/span\u003E\u003C\/button\u003E","#attached":{"library":[["system","ui"]]}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"currentPath":"sites\/all\/themes\/custom\/artsforall_theme\/fonts\/ProximaNova-Light.ttf","currentPathIsAdmin":false,"jquery_placeholder":{"edit-search-block-form--2":{"selector":"#edit-search-block-form--2"}},"form_placeholder":{"fallback_support":true,"include":"","exclude":"","required_indicator":"append"},"urlIsAjaxTrusted":{"\/sites\/all\/themes\/custom\/artsforall_theme\/fonts\/ProximaNova-Light.ttf":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-sites page-sites-all page-sites-all-themes page-sites-all-themes-custom page-sites-all-themes-custom-artsforall-theme page-sites-all-themes-custom-artsforall-theme-fonts page-sites-all-themes-custom-artsforall-theme-fonts-proximanova-lightttf section-sites" >
+      
+<div id="page">
+
+  <header id="header" role="banner">
+      <div class="header__region region region-header">
+    <div id="block-search-form" class="block block-search header-search-block first last odd" role="search">
+
+      
+  <form action="/sites/all/themes/custom/artsforall_theme/fonts/ProximaNova-Light.ttf" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search for..." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><i class="fa fa-search"></i></div><div class="header-search-block-close-wrapper form-actions form-wrapper" id="edit-close-actions"><input class="header-search-block-close form-button" aria-label="Hide the search box" type="submit" id="edit-close" name="op" value="Close (Esc)" /><i></i></div><input type="hidden" name="form_build_id" value="form-UwwM-JGv8pH86pMgl4ZBuFKpfWI23WzQc5pD2Z_p5KM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </header>
+
+  <div id="main">
+
+    <div id="navigation" class="clearfix">
+        <div class="region region-navigation">
+    <div id="block-bean-main-logo" class="block block-bean header-logo-block first odd">
+
+      
+  <div class="entity entity-bean bean-simple clearfix" about="/block/main-logo" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <p><a href="/"><img alt="" height="80" src="/sites/artsforall/files/lacartsed-logo-4c_0.png" width="198" /></a></p>
+  </div>
+  </div>
+</div>
+
+</div>
+<div id="block-bean-mobile-menu-toggle" class="block block-bean header-mobile-menu-toggle-block mobile-only even">
+
+      
+  <div class="entity entity-bean bean-simple clearfix" about="/block/mobile-menu-toggle" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <p><button aria-controls="mobile-navigation" aria-haspopup="true" aria-label="Open navigation menu" class="mobile-menu-toggle" type="button">Menu</button></p>
+<p> </p>
+  </div>
+  </div>
+</div>
+
+</div>
+<div id="block-menu-block-1" class="block block-menu-block accessible-mega-menu main-megamenu-block no-mobile odd" role="navigation">
+
+      
+  <div class="kwall-megamenu-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="accessible-megamenu"><li class="menu__item is-expanded menu__item is-expanded first expanded menu-mlid-1468 accessible-megamenu-top-nav-item"><a href="/about-us" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">About Us</a><div class="accessible-megamenu-panel"><div class="accessible-megamenu-inner-panel"><ul class="accessible-megamenu-panel-group"><li class="menu__item menu__item first menu-mlid-1645 even first"><a href="/about-us/history" class="menu__link menu__link">History</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2151 odd"><a href="/about-us/mission" class="menu__link menu__link">Mission</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2156 even"><a href="/about-us/leadership" class="menu__link menu__link">Leadership</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2201 odd"><a href="/about-us/funders" class="menu__link menu__link">Funders</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2161 even"><a href="/about-us/staff" class="menu__link menu__link">Staff</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-1651 odd"><a href="/about-us/contact-us" class="menu__link menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-1662 even"><a href="/e-news-sign-up" class="menu__link menu__link">E-news Sign Up</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-2171 odd last"><a href="/about-us/press" class="menu__link menu__link">Press</a></li>
+</ul></div></div></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded menu-mlid-1469 accessible-megamenu-top-nav-item"><a href="/initiatives" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Initiatives</a><div class="accessible-megamenu-panel"><div class="accessible-megamenu-inner-panel"><ul class="accessible-megamenu-panel-group"><li class="menu__item is-parent menu__item is-parent first has-children menu-mlid-2166 even first"><a href="/initiatives/school-district-support" class="menu__link menu__link">School District Support</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2211 odd"><a href="/initiatives/arts-stem-collaborative" class="menu__link menu__link">Arts + STEM</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2216 even"><a href="/initiatives/pathways-creative-workforce" class="menu__link menu__link">Pathways to the Creative Workforce</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-2221 odd last"><a href="/initiatives/juvenile-justice" class="menu__link menu__link">Juvenile Justice</a></li>
+</ul></div></div></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded menu-mlid-1471 accessible-megamenu-top-nav-item"><a href="/models-resources" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Models &amp; Resources</a><div class="accessible-megamenu-panel"><div class="accessible-megamenu-inner-panel"><ul class="accessible-megamenu-panel-group"><li class="menu__item menu__item first menu-mlid-2176 even first"><a href="/models-resources/school-districts" class="menu__link menu__link">School Districts</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2181 odd"><a href="/models-resources/community-arts-educators" class="menu__link menu__link">Community Arts Educators</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-2226 even"><a href="/models-resources/resources" class="menu__link menu__link">Resources</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-2231 odd last"><a href="/models-resources/promising-practices" class="menu__link menu__link">Promising Practices</a></li>
+</ul></div></div></li>
+<li class="menu__item is-expanded menu__item is-expanded expanded menu-mlid-1472 accessible-megamenu-top-nav-item"><a href="/research-evaluation" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Research &amp; Evaluation</a><div class="accessible-megamenu-panel"><div class="accessible-megamenu-inner-panel"><ul class="accessible-megamenu-panel-group"><li class="menu__item menu__item first menu-mlid-2236 even first"><a href="/research-evaluation/arts-ed-profile" class="menu__link menu__link">Arts Ed Profile</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-2241 odd last"><a href="/research-evaluation/reports" class="menu__link menu__link">Reports</a></li>
+</ul></div></div></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-1473 accessible-megamenu-top-nav-item"><a href="/advocacy" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Advocacy</a></li>
+<li class="menu__item is-leaf menu__item is-leaf leaf menu-mlid-1474 accessible-megamenu-top-nav-item"><a href="/events" class="menu__link menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Events</a></li>
+<li class="menu__item is-leaf menu__item is-leaf last leaf menu-mlid-2136 accessible-megamenu-top-nav-item"><a href="/news" class="menu__link menu__link">News</a></li>
+</ul></div>
+
+</div>
+<div id="block-bean-search-header" class="block block-bean search-header-icon no-mobile fa fa-search last even">
+
+      
+  <div class="entity entity-bean bean-simple clearfix" about="/block/search-header" typeof="">
+
+  <div class="content">
+      </div>
+</div>
+
+</div>
+  </div>
+    </div><!-- /#navigation -->
+
+        <div id="mobile-navigation" class="mobile-navigation clearfix">
+        <div class="region region-mobile-nav">
+    <div id="block-menu-block-4" class="block block-menu-block mobile-nav-menu-block accordion-menu-block first last odd" aria-label="Accordion Menu Nav" tabindex="-1" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu accordion-nav-menu accordion-nav-top-level-menu"><li class="menu__item is-expanded first expanded menu-mlid-1468"><a href="/about-us" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">About Us</a><a href="#" class="submenu-toggle" aria-haspopup="true"><i class="fa fa-angle-down" aria-hidden="true"></i><span class="element-invisible">Toggle Submenu</span></a><span class="border">&nbsp;</span><ul class="menu accordion-nav-menu accordion-nav-sub-menu"><li class="menu__item is-leaf first leaf menu-mlid-1645"><a href="/about-us/history" class="menu__link">History</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2151"><a href="/about-us/mission" class="menu__link">Mission</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2156"><a href="/about-us/leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2201"><a href="/about-us/funders" class="menu__link">Funders</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2161"><a href="/about-us/staff" class="menu__link">Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1651"><a href="/about-us/contact-us" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1662"><a href="/e-news-sign-up" class="menu__link">E-news Sign Up</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2171"><a href="/about-us/press" class="menu__link">Press</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1469"><a href="/initiatives" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Initiatives</a><a href="#" class="submenu-toggle" aria-haspopup="true"><i class="fa fa-angle-down" aria-hidden="true"></i><span class="element-invisible">Toggle Submenu</span></a><span class="border">&nbsp;</span><ul class="menu accordion-nav-menu accordion-nav-sub-menu"><li class="menu__item is-expanded first expanded menu-mlid-2166"><a href="/initiatives/school-district-support" class="menu__link">School District Support</a><a href="#" class="submenu-toggle" aria-haspopup="true"><i class="fa fa-angle-down" aria-hidden="true"></i><span class="element-invisible">Toggle Submenu</span></a><span class="border">&nbsp;</span><ul class="menu accordion-nav-menu accordion-nav-sub-menu"><li class="menu__item is-leaf first leaf menu-mlid-2186"><a href="/initiatives/school-district-support/grants-about" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2191"><a href="/initiatives/school-district-support/grants-apply" class="menu__link">Apply</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2196"><a href="/initiatives/school-district-support/manage-your-grant" class="menu__link">Manage Your Grant</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-2211"><a href="/initiatives/arts-stem-collaborative" class="menu__link">Arts + STEM</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2216"><a href="/initiatives/pathways-creative-workforce" class="menu__link">Pathways to the Creative Workforce</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2221"><a href="/initiatives/juvenile-justice" class="menu__link">Juvenile Justice</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1471"><a href="/models-resources" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Models &amp; Resources</a><a href="#" class="submenu-toggle" aria-haspopup="true"><i class="fa fa-angle-down" aria-hidden="true"></i><span class="element-invisible">Toggle Submenu</span></a><span class="border">&nbsp;</span><ul class="menu accordion-nav-menu accordion-nav-sub-menu"><li class="menu__item is-leaf first leaf menu-mlid-2176"><a href="/models-resources/school-districts" class="menu__link">School Districts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2181"><a href="/models-resources/community-arts-educators" class="menu__link">Community Arts Educators</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2226"><a href="/models-resources/resources" class="menu__link">Resources</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2231"><a href="/models-resources/promising-practices" class="menu__link">Promising Practices</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1472"><a href="/research-evaluation" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Research &amp; Evaluation</a><a href="#" class="submenu-toggle" aria-haspopup="true"><i class="fa fa-angle-down" aria-hidden="true"></i><span class="element-invisible">Toggle Submenu</span></a><span class="border">&nbsp;</span><ul class="menu accordion-nav-menu accordion-nav-sub-menu"><li class="menu__item is-leaf first leaf menu-mlid-2236"><a href="/research-evaluation/arts-ed-profile" class="menu__link">Arts Ed Profile</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2241"><a href="/research-evaluation/reports" class="menu__link">Reports</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-1473"><a href="/advocacy" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Advocacy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1474"><a href="/events" class="menu__link needsclick" style="touch-action: none; -ms-touch-action: none;">Events</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2136"><a href="/news" class="menu__link">News</a></li>
+</ul></div>
+
+</div>
+  </div>
+    </div>
+    
+    
+    <div class="top-content-wrapper">
+	<div class="breadcrumb-wrapper"><nav class="breadcrumb" role="navigation" tabindex="-1" id="ui-skip-2"><ol><li>Page not found<li></ol></nav></div>
+      <div class="title-wrapper">
+        <div class="title-inner-wrapper">
+          
+                                <h1 class="title" id="page-title">Page not found</h1>
+                            </div>
+      </div>
+    	    </div>
+
+
+    <div class="content-wrapper">
+
+      <div id="content" class="column" role="main">
+        <a id="main-content"></a>
+                                        
+
+
+The requested page "/sites/all/themes/custom/artsforall_theme/fonts/ProximaNova-Light.ttf" could not be found.              </div><!-- /#content -->
+
+      
+          </div> <!-- content-wrapper -->
+
+    <div class="full-width-bg">
+          </div>
+  </div><!-- /#main -->
+  <div class="footer-wrapper">
+    <div class="full-width-bg-footer">
+        <footer id="footer" class="region region-footer">
+    <div id="block-bean-footer-address-block" class="block block-bean footer-address-block first odd">
+
+      
+  <div class="entity entity-bean bean-simple clearfix" about="/block/footer-address-block" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <p><a href="#"><img alt="" height="81" src="/sites/artsforall/files/lacartsed-logo-4c.png" width="200" /></a></p>
+<p>1055 Wilshire Blvd, Suite 800<br />
+Los Angeles, CA 90017<br />
+(213) 202-5858<br /><a href="mailto:artsedcollective@arts.lacounty.gov">artsedcollective@arts.lacounty.gov</a></p>
+<div class="social-media">
+<ul><li class="facebook"><a href="https://www.facebook.com/lacountyartsed/"><i class="fa fa-facebook"> </i><span class="element-invisible">Facebook</span></a></li>
+<li class="twitter"><a href="https://twitter.com/lacountyartsed"><i class="fa fa-twitter"> </i><span class="element-invisible">Twitter</span></a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/LACountyArtsEd"><i class="fa fa-youtube"> </i><span class="element-invisible">YouTube</span></a></li>
+</ul></div>
+  </div>
+  </div>
+</div>
+
+</div>
+<div id="block-bean-footer-e-news-sign-up" class="block block-bean footer-enews-sign-up-block last even">
+
+        <h2 class="block__title block-title">E-News Sign Up</h2>
+    
+  <div class="entity entity-bean bean-simple clearfix" about="/block/footer-e-news-sign-up" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <p>Sign up to receive the latest news!</p>
+<form action="/e-news-sign-up" class="footer-enews-signup-form" method="get">
+<div class="footer-enews-signup-name-wrapper footer-enews-signup-first-name-wrapper footer-enews-signup-wrapper"><label class="element-invisible" for="footer-enews-signup-first-name">First Name</label> <input id="footer-enews-signup-first-name" name="enews-first-name" placeholder="First Name" type="text" /></div>
+<!-- <div class="footer-enews-signup-name-wrapper footer-enews-signup-last-name-wrapper footer-enews-signup-wrapper"><label for="footer-enews-signup-last-name" class="element-invisible">Last Name</label> <input id="footer-enews-signup-last-name" name="enews-last-name" type="text" placeholder="Last Name" /></div> --><div class="footer-enews-signup-email-wrapper footer-enews-signup-wrapper"><label class="element-invisible" for="footer-enews-signup-email">Email</label> <input id="footer-enews-signup-email" name="enews-email" placeholder="Email" type="email" /></div>
+<div class="footer-enews-signup-submit-wrapper footer-enews-signup-wrapper"><input name="enews-submit" type="submit" value="Subscribe" /></div>
+</form>
+  </div>
+  </div>
+</div>
+
+</div>
+  </footer>
+    </div>
+    <div class="full-width-bg-footer-copyright">
+        <div class="region region-footer-copyright">
+    <div id="block-bean-footer-copyright-block" class="block block-bean footer-copyright-block first last odd">
+
+      
+  <div class="entity entity-bean bean-simple clearfix" about="/block/footer-copyright-block" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <div class="footer-copy">
+<p>©2017 LA County Arts Commission</p>
+</div>
+<div class="rteright footer-copy"><a href="/privacy-and-terms-use"><span>Privacy Policy</span></a></div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+    </div>
+  </div>
+</div><!-- /#page -->
+
+  <div class="region region-bottom">
+    <div id="block-bean-pop-up-email-sign-up" class="block block-bean popup-enews-signup-block mfp-hide first last odd">
+
+        <h2 class="block__title block-title">E-News Sign Up</h2>
+    
+  <div class="entity entity-bean bean-simple clearfix" about="/block/pop-up-email-sign-up" typeof="">
+
+  <div class="content">
+    
+  <div class="field-body">
+    <p>Sign up below for the latest news and updates!</p>
+<form action="/e-news-sign" class="enews-signup-popup-form" method="get">
+<div class="enews-signup-popup-name-wrapper enews-signup-popup-first-name-wrapper enews-signup-popup-wrapper"><label for="enews-signup-popup-first-name">First Name</label> <input id="enews-signup-popup-first-name" name="enews-first-name" type="text" /></div>
+<div class="enews-signup-popup-name-wrapper enews-signup-popup-last-name-wrapper enews-signup-popup-wrapper"><label for="enews-signup-popup-last-name">Last Name</label> <input id="enews-signup-popup-last-name" name="enews-last-name" type="text" /></div>
+<div class="enews-signup-popup-email-wrapper enews-signup-popup-wrapper"><label for="enews-signup-popup-email">Email</label> <input id="enews-signup-popup-email" name="enews-email" type="email" /></div>
+<div class="enews-signup-popup-submit-wrapper enews-signup-popup-wrapper"><input name="enews-submit" type="submit" value="Subscribe" /></div>
+</form>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+  <script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_od5qcWI-yHoxjAbg1br1ZuymfVEB-0Q4PzV8vlYsObg.js"></script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_rRpRHbvB8DilseW9m4VGVwkQnI74E9e8Ud11Z-SU028.js"></script>
+<script>jQuery(document).ready(function() {
+        FastClick.attach(document.body);
+      });</script>
+<script src="https://www.lacountyartsedcollective.org/sites/lacaec/files/js/js_zzY8iojX8pn1uyeBp4mTUiRfGW4Yw8KqxF1e0WROkU0.js"></script>
+</body>
+</html>

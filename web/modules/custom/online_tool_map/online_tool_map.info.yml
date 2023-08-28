@@ -1,0 +1,10 @@
+name: "Online tool Map (Arts Ed Profile online tool)"
+type: module
+description: "Creates a custom block for demonstrating the Arts Ed Profile online tool map."
+package: Custom
+version: VERSION
+core_version_requirement: "^9 || ^10"
+dependencies:
+  - block
+libraries:
+  - 'online_tool_map/online_tool_map_library'

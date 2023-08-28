@@ -1,0 +1,7 @@
+name: 'Godwin Theme'
+type: theme
+description: 'A child theme based on Claro for Drupal 9 and 10.'
+package: Core
+version: VERSION
+base theme: claro
+core_version_requirement: ^9 || ^10

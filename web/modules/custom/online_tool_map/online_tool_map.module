@@ -1,0 +1,21 @@
+<?php
+/**
+ * Implements hook_theme().
+ */
+function online_tool_map_theme($existing, $type, $theme, $path) {
+  return [
+    'online_tool_map' => [
+      'variables' => [
+        'content' => NULL,
+      ],
+    ],
+  ];
+}
+
+/**
+ * Implements hook_page_attachments().
+ */
+function online_tool_map_page_attachments(array &$attachments) {
+  // Attach the online_tool_map_library CSS and JS to all pages.
+  $attachments['#attached']['library'][] = 'online_tool_map_module/online_tool_map_library'; // Adjust library name.
+}

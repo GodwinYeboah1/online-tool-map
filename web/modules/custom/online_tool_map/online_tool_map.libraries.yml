@@ -1,0 +1,8 @@
+online_tool_map_library:
+  version: 1.x
+  css:
+    theme:
+      static/css/main.6502e352.css: {}
+  js:
+    js/service-worker.js: {}
+    static/js/main.f6641517.js: {}
