@@ -10,7 +10,7 @@ use Drupal\Core\Controller\ControllerBase;
 class OnlineToolMapController extends ControllerBase {
 
   /**
-   * Returns a render-able array for a test page.
+   * Returns a render-able array.
    */
   public function content() {
       return [
