@@ -1,0 +1,8 @@
+.react-hint__content.popup-print .btn {
+    background-color: #f4981e;
+    color: #fff;
+    font-family: monospace;
+    border-radius: 4px!important;
+    border: none;
+    cursor: pointer;
+}
